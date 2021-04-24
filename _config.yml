@@ -110,7 +110,7 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Nortchell/Nortchell.github.io.git
+  repo: https://Nortchell:zxk5461zxk@github.com/Nortchell/Nortchell.github.io.git
   branch: main
 
 autoprefixer:
